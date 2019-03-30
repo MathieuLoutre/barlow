@@ -1,5 +1,9 @@
 {
-.appVersion = "1192";
+.appVersion = "1224";
+DisplayStrings = (
+"AÄ",
+a
+);
 copyright = "Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)";
 customParameters = (
 {
@@ -48,7 +52,7 @@ value = 1;
 date = "2018-11-07 02:21:11 +0000";
 designer = "Jeremy Tribby";
 designerURL = "https://tribby.com/";
-familyName = Barlow;
+familyName = "Barlow Sharp";
 featurePrefixes = (
 {
 automatic = 1;
@@ -86612,16 +86616,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 },
 {
 name = weightClass;
@@ -86651,16 +86647,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 },
 {
 name = weightClass;
@@ -86690,16 +86678,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 }
 );
 interpolationWeight = 53;
@@ -86725,16 +86705,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 }
 );
 interpolationWeight = 71;
@@ -86759,16 +86731,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 }
 );
 interpolationWeight = 96;
@@ -86794,16 +86758,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 }
 );
 interpolationWeight = 116;
@@ -86829,16 +86785,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 }
 );
 interpolationWeight = 141;
@@ -86865,16 +86813,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 }
 );
 interpolationWeight = 166;
@@ -86900,16 +86840,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;15;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-6;1;";
-},
-{
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 }
 );
 interpolationWeight = 188;
@@ -86934,16 +86866,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = weightClass;
@@ -86983,16 +86907,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = weightClass;
@@ -87032,16 +86948,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = winAscent;
@@ -87077,14 +86985,6 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -87099,7 +86999,7 @@ Location = 85;
 },
 {
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = winAscent;
@@ -87134,16 +87034,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = winAscent;
@@ -87179,16 +87071,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = winAscent;
@@ -87224,16 +87108,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = winAscent;
@@ -87270,16 +87146,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = winAscent;
@@ -87315,16 +87183,8 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;15;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-6;1;";
-},
-{
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = winAscent;
@@ -87356,14 +87216,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
 name = weightClass;
@@ -87392,14 +87244,6 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = weightClass;
 value = 275;
 }
@@ -87424,14 +87268,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
 }
 );
 interpolationWeight = 53;
@@ -87454,14 +87290,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
 }
 );
 interpolationWeight = 71;
@@ -87483,14 +87311,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
 }
 );
 interpolationWeight = 96;
@@ -87513,14 +87333,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
 }
 );
 interpolationWeight = 116;
@@ -87543,14 +87355,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
 }
 );
 interpolationWeight = 141;
@@ -87574,14 +87378,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
 }
 );
 interpolationWeight = 166;
@@ -87604,14 +87400,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;15;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;";
 }
 );
 interpolationWeight = 188;
@@ -87636,14 +87424,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -87655,7 +87435,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 },
 {
 name = italicAngle;
@@ -87692,14 +87472,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -87711,7 +87483,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 },
 {
 name = weightClass;
@@ -87748,14 +87520,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -87767,7 +87531,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 },
 {
 name = italicAngle;
@@ -87800,14 +87564,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -87819,7 +87575,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 },
 {
 name = italicAngle;
@@ -87850,14 +87606,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -87869,7 +87617,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 },
 {
 name = italicAngle;
@@ -87902,14 +87650,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -87921,7 +87661,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 },
 {
 name = italicAngle;
@@ -87954,14 +87694,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -87973,7 +87705,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 },
 {
 name = italicAngle;
@@ -88006,14 +87738,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88025,7 +87749,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 },
 {
 name = italicAngle;
@@ -88058,14 +87782,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;15;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88077,7 +87793,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Condensed";
+value = "Barlow Sharp Condensed";
 },
 {
 name = italicAngle;
@@ -88109,14 +87825,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88128,7 +87836,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = italicAngle;
@@ -88175,14 +87883,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88194,7 +87894,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = weightClass;
@@ -88241,14 +87941,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88260,7 +87952,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = italicAngle;
@@ -88302,14 +87994,6 @@ name = Filter;
 value = "RemoveOverlap;";
 },
 {
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
 name = "Axis Location";
 value = (
 {
@@ -88335,7 +88019,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = italicAngle;
@@ -88376,14 +88060,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88395,7 +88071,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = italicAngle;
@@ -88438,14 +88114,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88457,7 +88125,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = italicAngle;
@@ -88500,14 +88168,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88519,7 +88179,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = italicAngle;
@@ -88562,14 +88222,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88581,7 +88233,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = italicAngle;
@@ -88624,14 +88276,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;15;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88643,7 +88287,7 @@ value = (
 },
 {
 name = familyName;
-value = "Barlow Semi Condensed";
+value = "Barlow Sharp Semi Condensed";
 },
 {
 name = italicAngle;
@@ -88681,14 +88325,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
 name = Filter;
@@ -88739,14 +88375,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88790,14 +88418,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88837,14 +88457,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88879,14 +88491,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;10;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
 name = Filter;
@@ -88929,14 +88533,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -88973,14 +88569,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
 },
 {
 name = Filter;
@@ -89023,14 +88611,6 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
 {
@@ -89067,14 +88647,6 @@ value = (
 {
 name = Filter;
 value = "RemoveOverlap;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;15;1;";
-},
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;-6;1;";
 },
 {
 name = Filter;

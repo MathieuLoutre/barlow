@@ -1,7 +1,8 @@
+# Barlow Sharp
 
-![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/documentation/barlow.gif)
+Barlow Sharp is a non-rounded version of Barlow. Barlow's orginal drawings are sharp and its roundness is added on export. I removed the roundness filter and re-exported the fonts.
 
-# Barlow
+## Barlow
 
 Barlow is a slightly rounded, low-contrast, grotesk type family designed by [Jeremy Tribby](https://tribby.com). Drawing from the visual style of the California public, Barlow shares qualities with the state's car plates, highway signs, busses, and trains.
 
