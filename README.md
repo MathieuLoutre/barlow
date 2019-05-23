@@ -12,7 +12,7 @@ Barlow is named after internet pioneer, EFF co-founder, songwriter, and activist
 
 ## Download
 
-[Download the project](https://github.com/jpt/barlow/archive/master.zip) and find the OpenType font files in the `fonts/otf` directory. A good way to play with it as a web font (`fonts/woff`) is on the [Cyreal.org font testing site](http://www.cyreal.org/Font-Testing-Page/index.php)
+[Download the project](https://github.com/MathieuLoutre/barlow-sharp/archive/master.zip) and find the OpenType font files in the `fonts/otf` directory. A good way to play with it as a web font (`fonts/woff`) is on the [Cyreal.org font testing site](http://www.cyreal.org/Font-Testing-Page/index.php)
 
 ## Variable font support
 
